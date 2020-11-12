@@ -1,0 +1,4 @@
+D:\C#\SecurityService\SecurityService.Data\bin\Debug\netcoreapp3.1\SecurityService.Objects.dll
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.csprojAssemblyReference.cache
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.AssemblyInfoInputs.cache
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.AssemblyInfo.cs

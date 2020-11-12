@@ -1,0 +1,10 @@
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\SecurityServiceApi.exe
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.csprojAssemblyReference.cache
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.AssemblyInfoInputs.cache
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.AssemblyInfo.cs
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.RazorTargetAssemblyInfo.cache
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\staticwebassets\SecurityServiceApi.StaticWebAssets.Manifest.cache
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\staticwebassets\SecurityServiceApi.StaticWebAssets.xml

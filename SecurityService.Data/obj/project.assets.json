@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "SecurityService.Objects/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SecurityService.Objects.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SecurityService.Objects.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SecurityService.Objects/1.0.0": {
+      "type": "project",
+      "path": "../SecurityService.Objects/SecurityService.Objects.csproj",
+      "msbuildProject": "../SecurityService.Objects/SecurityService.Objects.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "SecurityService.Objects >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\MTAst\\.nuget\\packages\\": {},
@@ -36,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\C#\\SecurityService\\SecurityService.Objects\\SecurityService.Objects.csproj": {
+              "projectPath": "D:\\C#\\SecurityService\\SecurityService.Objects\\SecurityService.Objects.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
