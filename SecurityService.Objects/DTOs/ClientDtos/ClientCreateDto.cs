@@ -7,5 +7,6 @@ namespace SecurityService.Objects.DTOs.ClientDtos
     public class ClientCreateDto
     {
         public string Name { get; set; }
+        public string Password { get; set; }
     }
 }
