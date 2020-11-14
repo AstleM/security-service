@@ -3,3 +3,7 @@ D:\C#\SecurityService\SecurityService.Objects\bin\Debug\netcoreapp3.1\SecuritySe
 D:\C#\SecurityService\SecurityService.Objects\obj\Debug\netcoreapp3.1\SecurityService.Objects.csprojAssemblyReference.cache
 D:\C#\SecurityService\SecurityService.Objects\obj\Debug\netcoreapp3.1\SecurityService.Objects.AssemblyInfoInputs.cache
 D:\C#\SecurityService\SecurityService.Objects\obj\Debug\netcoreapp3.1\SecurityService.Objects.AssemblyInfo.cs
+D:\C#\SecurityService\SecurityService.Objects\bin\Debug\netcoreapp3.1\SecurityService.Objects.pdb
+D:\C#\SecurityService\SecurityService.Objects\obj\Debug\netcoreapp3.1\SecurityService.Objects.csproj.CoreCompileInputs.cache
+D:\C#\SecurityService\SecurityService.Objects\obj\Debug\netcoreapp3.1\SecurityService.Objects.dll
+D:\C#\SecurityService\SecurityService.Objects\obj\Debug\netcoreapp3.1\SecurityService.Objects.pdb

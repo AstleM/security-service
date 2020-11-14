@@ -2,3 +2,11 @@ D:\C#\SecurityService\SecurityService.Data\bin\Debug\netcoreapp3.1\SecurityServi
 D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.csprojAssemblyReference.cache
 D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.AssemblyInfoInputs.cache
 D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.AssemblyInfo.cs
+D:\C#\SecurityService\SecurityService.Data\bin\Debug\netcoreapp3.1\SecurityService.Data.deps.json
+D:\C#\SecurityService\SecurityService.Data\bin\Debug\netcoreapp3.1\SecurityService.Data.dll
+D:\C#\SecurityService\SecurityService.Data\bin\Debug\netcoreapp3.1\SecurityService.Data.pdb
+D:\C#\SecurityService\SecurityService.Data\bin\Debug\netcoreapp3.1\SecurityService.Objects.pdb
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.csproj.CoreCompileInputs.cache
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.csproj.CopyComplete
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.dll
+D:\C#\SecurityService\SecurityService.Data\obj\Debug\netcoreapp3.1\SecurityService.Data.pdb

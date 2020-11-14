@@ -8,3 +8,13 @@ D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityService
 D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.RazorTargetAssemblyInfo.cache
 D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\staticwebassets\SecurityServiceApi.StaticWebAssets.Manifest.cache
 D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\staticwebassets\SecurityServiceApi.StaticWebAssets.xml
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\SecurityServiceApi.deps.json
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\SecurityServiceApi.runtimeconfig.json
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\SecurityServiceApi.runtimeconfig.dev.json
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\SecurityServiceApi.dll
+D:\C#\SecurityService\SecurityServiceApi\bin\Debug\netcoreapp3.1\SecurityServiceApi.pdb
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.csproj.CoreCompileInputs.cache
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.dll
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.pdb
+D:\C#\SecurityService\SecurityServiceApi\obj\Debug\netcoreapp3.1\SecurityServiceApi.genruntimeconfig.cache
