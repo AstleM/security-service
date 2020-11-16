@@ -7,7 +7,7 @@ using System.Text;
 
 namespace SecurityService.Objects.Maps.ClientMaps
 {
-    public class TestClientMap : IClientMap
+    public class ClientMap : IClientMap
     {
         public void Map(Client client, out ClientGetDto output)
         {
